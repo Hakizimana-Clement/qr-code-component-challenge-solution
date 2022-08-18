@@ -1,4 +1,7 @@
-# qr-code-component-challenge-solution
+# QR-Code-Component-Challenge-Solution
+
+
+
 
 # Frontend Mentor - QR code component solution
 

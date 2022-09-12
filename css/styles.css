@@ -1,33 +1,31 @@
 body {
+  min-height: 100vh;
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", serif;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* .square box section*/
 
 .square {
-  width: 258px;
-  height: 424px;
+  max-width: 258px;
   background-color: hsl(0, 0%, 100%);
-  position: absolute;
-  left: 40.25%;
-  top: 15.25%;
   border-radius: 3%;
-  padding: 0 10px 10px;
+  padding: 10px 10px;
 }
 
 /* images section*/
 
 img {
+  max-width: 100%;
+  display: block;
   border-radius: 3%;
-  width: 250px;
-  height: 250px;
-  position: relative;
-  top: 3.625%;
-  margin-bottom: 10.625%;
 }
 /* text section */
+
 .text h1 {
   color: hsl(218, 44%, 22%);
   font-size: 17px;
@@ -35,13 +33,4 @@ img {
 .text p {
   color: hsl(220, 15%, 55%);
   font-size: 15px;
-}
-
-/* For mobile screen size */
-
-@media (max-width: 503px) {
-  .square {
-    position: absolute;
-    left: 150px;
-  }
 }

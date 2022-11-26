@@ -55,6 +55,6 @@ I still have to learn @media query deeply and how to Code refactoring process.
 
 ## Author
 
-- Website - [Hakizimana-Clement] (https://github.com/Hakizimana-Clement)
+- Website - [Hakizimana-Clement](https://github.com/Hakizimana-Clement)
 - Frontend Mentor - [@HAKIZIMANA CLEMENT](https://www.frontendmentor.io/profile/Hakizimana-Clement)
 - Twitter - [@HakizimanaClem5](https://www.twitter.com/@HakizimanaClem5)
